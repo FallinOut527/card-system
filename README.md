@@ -1,6 +1,6 @@
 
 ### 关于
-> 商业版预览: [https://2ka.co.uk/](https://2ka.co.uk/)
+> 商业版预览: [http://demo.fakaxitong.com/](http://demo.fakaxitong.com/)
 
 > 开源版当前版本: 2.5
 
